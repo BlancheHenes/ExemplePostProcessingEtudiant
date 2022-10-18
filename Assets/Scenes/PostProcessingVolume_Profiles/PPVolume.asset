@@ -66,20 +66,20 @@ MonoBehaviour:
     overrideState: 0
     value: 1
   temperature:
-    overrideState: 0
-    value: 0
+    overrideState: 1
+    value: -34
   tint:
-    overrideState: 0
-    value: 0
+    overrideState: 1
+    value: -43
   colorFilter:
-    overrideState: 0
-    value: {r: 1, g: 1, b: 1, a: 1}
+    overrideState: 1
+    value: {r: 0.003826994, g: 0.31921884, b: 0.8113208, a: 1}
   hueShift:
     overrideState: 0
     value: 0
   saturation:
-    overrideState: 0
-    value: 0
+    overrideState: 1
+    value: 3
   brightness:
     overrideState: 0
     value: 0
